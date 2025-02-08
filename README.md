@@ -10,4 +10,4 @@ I'm an Architect and Interface Design enthusiast making a carreer transition to 
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=projeto-android.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=projeto-android&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
