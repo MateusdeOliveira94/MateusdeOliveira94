@@ -22,3 +22,4 @@ I'm an Architect and Interface Design enthusiast from Brazil making a carreer tr
 
 ### Contact me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mateusdeoliveira94/)
+[<img src='https://img.shields.io/badge/Behance-1769ff?logo=behance&logoCol' alt='Linkedin' height='30'>](https://www.behance.net/matthricko)
