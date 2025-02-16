@@ -12,7 +12,7 @@ I'm an Architect and Interface Design enthusiast from Brazil making a carreer tr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=Product-Card-Project&theme=dark)](https://mateusdeoliveira94.github.io/Product-Card-Project/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=Clipboard-Landing-Page-Master&theme=dark)](https://mateusdeoliveira94.github.io/Clipboard-Landing-Page-Master/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=projeto-tela-login&theme=dark)](https://github.com/MateusdeOliveira94/projeto-tela-login/deployments/github-pages)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=projeto-tela-login&theme=dark)](https://mateusdeoliveira94.github.io/projeto-tela-login/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusdeOliveira94&repo=projeto-cordel&theme=dark)](https://mateusdeoliveira94.github.io/projeto-cordel/)
 
 
